@@ -1370,6 +1370,17 @@
     "repo": "https://github.com/natefaubion/purescript-variant.git",
     "version": "v1.1.0"
   },
+  "websocket-simple": {
+    "dependencies": [
+      "dom",
+      "eff",
+      "exceptions",
+      "generics",
+      "var"
+    ],
+    "repo": "https://github.com/zudov/purescript-websocket-simple.git",
+    "version": "v2.0.0"
+  },
   "yargs": {
     "dependencies": [
       "exceptions",
