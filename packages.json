@@ -1062,6 +1062,11 @@
     "repo": "https://github.com/purescript-contrib/purescript-react-dom.git",
     "version": "v4.0.0"
   },
+  "read": {
+    "dependencies": [],
+    "repo": "https://github.com/truqu/purescript-read.git",
+    "version": "v1.0.0"
+  },
   "record": {
     "dependencies": [
       "functions",
