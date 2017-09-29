@@ -739,6 +739,20 @@
     "repo": "https://github.com/Thimoteus/purescript-mmorph.git",
     "version": "v3.0.0"
   },
+  "monad-control": {
+    "dependencies": [
+      "console",
+      "arrays",
+      "aff",
+      "functors",
+      "freet",
+      "transformers",
+      "identity",
+      "lists"
+    ],
+    "repo": "https://github.com/athanclark/purescript-monad-control.git",
+    "version": "v4.1.0"
+  },
   "monoid": {
     "dependencies": [
       "control",
