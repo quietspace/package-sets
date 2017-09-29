@@ -1395,6 +1395,16 @@
     "repo": "https://github.com/zudov/purescript-websocket-simple.git",
     "version": "v2.0.0"
   },
+  "websocket-moderate": {
+    "dependencies": [
+      "exceptions",
+      "console",
+      "monad-control",
+      "nullable"
+    ],
+    "repo": "https://github.com/athanclark/purescript-websocket-moderate.git",
+    "version": "v2.0.1"
+  },
   "yargs": {
     "dependencies": [
       "exceptions",
